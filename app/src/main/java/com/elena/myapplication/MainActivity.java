@@ -12,6 +12,8 @@ import androidx.navigation.ui.NavigationUI;
 
 import com.elena.myapplication.databinding.ActivityMainBinding;
 
+
+
 public class MainActivity extends AppCompatActivity {
 
     private ActivityMainBinding binding;
